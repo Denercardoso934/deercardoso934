@@ -15,5 +15,5 @@ Buscando minha primeira oportunidade como desenvolvedor ou estagiário.
 - [Sistema de Tarefas](https://github.com/Denercardoso934/-sistema-tarefas) — Python + SQLite + API web publicada
 
 ## 📫 Contato
-- LinkedIn: (adicionar depois)
-- Email: (seu email)
+- LinkedIn: Dener Cardoso
+- Email:denercardoso76@gmail.com
